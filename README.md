@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Bettendorf, Iowa &middot; <a href="https://harshapakki.github.io">harshapakki.github.io</a> &middot; <a href="mailto:harshapakki@gmail.com">harshapakki@gmail.com</a>
+  Bettendorf, Iowa &middot; <a href="https://harshapakki.github.io">harshapakki.github.io</a> &middot; <a href="https://www.linkedin.com/in/hpakki/">LinkedIn</a> &middot; <a href="mailto:harshapakki@gmail.com">harshapakki@gmail.com</a>
 </p>
 
 ---
@@ -62,5 +62,5 @@ A voice agent streaming speech over WebSockets into faster-whisper. A zero-distr
 a rooted 1 GB Android phone, where AI answers questions but never writes the code.
 
 <p align="center">
-  <a href="https://harshapakki.github.io"><b>See the portfolio: system design, live demos and the network trace</b></a>
+  <a href="https://harshapakki.github.io"><b>See the portfolio: three case studies, a system design and live demos</b></a>
 </p>
