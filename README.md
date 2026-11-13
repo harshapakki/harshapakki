@@ -1,7 +1,7 @@
 <h1 align="center">Harsha Prakash Pakki</h1>
 
 <p align="center">
-  <b>AI Forward Deployed Engineer</b><br>
+  <b>AI / Forward Deployed Engineer</b><br>
   I connect the systems a business already runs on to the AI it wants to use.
 </p>
 
@@ -12,7 +12,7 @@
 ---
 
 ```text
-now        AI Forward Deployed Engineer, embedded with a manufacturing customer
+now        AI / Forward Deployed Engineer, embedded with a manufacturing customer
              technical lead on site, 8+ systems in production
 before     Software Engineer & Product Owner, client front ends, platform, AI pricing
              Software Engineer, Product R&D, C# and .NET, SQL Server, Spark on AWS
