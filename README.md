@@ -25,7 +25,7 @@ next       Rust for new services
 ### What I do
 
 - **Legacy to modern APIs.** Wrap AS/400 ERPs, SQL Server and shop-floor machines in clean FastAPI services that apps and agents can depend on.
-- **AI agents and multi-agent systems.** Agents that act on real systems through typed MCP tools, context engineering with knowledge graphs, shared budgets and guardrails.
+- **AI agents and multi-agent systems.** Agents that act on real systems through typed MCP tools, context engineering with knowledge graphs, shared budgets and guardrails. Built with LangChain, LangGraph, the Claude Agent SDK and Claude Code.
 - **Applied AI that pays for itself.** Vision pipelines and model routing from local to premium, measured against golden sets.
 - **Automated deployment.** Self-hosted Git, push-to-deploy, Docker, Kubernetes and Helm, monitoring and status pages.
 - **Scalable system design.** Distributed services, performance tuning, high availability, hybrid on-site and cloud, typed contracts between services, per-site config instead of forks.
@@ -54,6 +54,8 @@ next       Rust for new services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![Claude Agent SDK](https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ### Things I build for myself
 
