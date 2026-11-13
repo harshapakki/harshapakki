@@ -25,10 +25,10 @@ next       Rust for new services
 ### What I do
 
 - **Legacy to modern APIs.** Wrap AS/400 ERPs, SQL Server and shop-floor machines in clean FastAPI services that apps and agents can depend on.
-- **Agentic engineering.** Agents that act on real systems through typed MCP tools, graph-based context, shared budgets and guardrails.
+- **AI agents and multi-agent systems.** Agents that act on real systems through typed MCP tools, context engineering with knowledge graphs, shared budgets and guardrails.
 - **Applied AI that pays for itself.** Vision pipelines and model routing from local to premium, measured against golden sets.
 - **Automated deployment.** Self-hosted Git, push-to-deploy, Docker, Kubernetes and Helm, monitoring and status pages.
-- **System design.** High availability, hybrid on-site and cloud, typed contracts between services, per-site config instead of forks.
+- **Scalable system design.** Distributed services, performance tuning, high availability, hybrid on-site and cloud, typed contracts between services, per-site config instead of forks.
 - **Networking, L1 to L7.** TCP to WebSocket bridging for in-browser desktops (noVNC and websockify), nginx and TLS, firewalls and VPNs.
 - **Business outcomes.** Discovery with the people doing the work, metrics agreed up front, and pricing that holds up at scale.
 
