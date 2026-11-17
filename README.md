@@ -29,7 +29,7 @@ next       Rust for new services
 - **Applied AI that pays for itself.** Vision pipelines and model routing from local to premium, measured against golden sets.
 - **Hybrid deployment.** One push-to-deploy pipeline to Kubernetes on site and on AWS (EKS, ECR, S3, RDS), with Helm, monitoring and status pages.
 - **Scalable system design.** Distributed services, performance tuning, high availability, hybrid on-site and cloud, typed contracts between services, per-site config instead of forks.
-- **Networking, L1 to L7.** TCP to WebSocket bridging for in-browser desktops (noVNC and websockify), nginx and TLS, firewalls and VPNs.
+- **Networking, L1 to L7.** TCP to WebSocket bridging to put a containerised robot simulator in the browser (noVNC and websockify), nginx and TLS, firewalls and VPNs.
 - **Business outcomes.** Discovery with the people doing the work, metrics agreed up front, and pricing that holds up at scale.
 
 ### Recent results
@@ -41,7 +41,7 @@ next       Rust for new services
 | AS/400 ERP data service feeding a new quoting platform | quote turnaround **2-3 days → 1 day**, about **40% more estimates** |
 | Closed-loop CNC control, gauge in, tool offsets out | scrap **4-5% → 1-2%** on enabled cells |
 | Delivery platform built from zero | about **20 containerised services**, push-to-deploy, monitoring |
-| Browser desktops through noVNC, websockify and nginx | environment setup **days → first login**, only HTTPS exposed |
+| Robot simulator in Docker, in the browser through noVNC, websockify and nginx | **11 robot models**, no virtual machine needed, only HTTPS exposed |
 | Credit-metered AI pricing | trial to paid **11% → 18%**, revenue per customer **+22%** |
 | SQL Server availability groups | **99.99% uptime**, **65% faster queries**, **45% less memory** |
 
