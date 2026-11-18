@@ -65,5 +65,5 @@ A voice agent streaming speech over WebSockets into faster-whisper. A zero-distr
 a rooted 1 GB Android phone, where AI answers questions but never writes the code.
 
 <p align="center">
-  <a href="https://harshapakki.github.io"><b>See the portfolio: four case studies, a system design and live demos</b></a>
+  <a href="https://harshapakki.github.io"><b>See the portfolio: five case studies, a system design and live demos</b></a>
 </p>
